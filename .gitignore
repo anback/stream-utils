@@ -1,0 +1,7 @@
+node_modules
+*.csv
+Mics1.json
+Mics2.json
+*.xml
+*.DS_Store
+*.zip

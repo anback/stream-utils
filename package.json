@@ -10,8 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "csv-stream": "^0.2.0",
+    "idx": "^2.5.5",
     "moment": "^2.24.0",
     "request": "^2.88.0",
-    "xml-stream": "^0.4.5"
+    "xml-stream": "^0.4.5",
+    "xml2js": "^0.4.19"
   }
 }

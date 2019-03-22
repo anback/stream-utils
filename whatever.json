@@ -1,0 +1,38 @@
+{
+    "FinInstrmGnlAttrbts": {
+        "Id": "US16951E1047",
+        "FullNm": "China Zenix Auto InternationalReg. Shares (ADR)/4 o.N.",
+        "ShrtNm": "CHINA ZENIX AUT/ADR",
+        "ClssfctnTp": "EDSXFR",
+        "NtnlCcy": "USD",
+        "CmmdtyDerivInd": "false",
+        "$name": "FinInstrmGnlAttrbts"
+    },
+    "Issr": "391200I7OS301UELZA68",
+    "TradgVnRltdAttrbts": {
+        "Id": "BERB",
+        "IssrReq": "false",
+        "FrstTradDt": "2011-05-16T06:00:00",
+        "TermntnDt": "2018-11-16T19:00:00",
+        "$name": "TradgVnRltdAttrbts"
+    },
+    "DerivInstrmAttrbts": {
+        "UndrlygInstrm": {
+            "Sngl": {
+                "ISIN": "US16951E1047",
+                "$name": "Sngl"
+            },
+            "$name": "UndrlygInstrm"
+        },
+        "$name": "DerivInstrmAttrbts"
+    },
+    "TechAttrbts": {
+        "RlvntCmptntAuthrty": "DE",
+        "PblctnPrd": {
+            "FrDt": "2018-11-20",
+            "$name": "PblctnPrd"
+        },
+        "$name": "TechAttrbts"
+    },
+    "$name": "RefData"
+}
